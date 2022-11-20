@@ -1,4 +1,4 @@
-Hey 👋, I'm Brian!
+# Hey 👋, I'm Brian!
 
 I'm currently working on a new discord bot!
 
