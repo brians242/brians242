@@ -2,7 +2,9 @@
 
 I'm currently working on a new discord bot!
 
-I'm mainly learning C++, Lua, and JavaScript at the moment; I'm proficient in Python and Java.
+## Languages
+- I'm mainly learning C++, Lua, and JavaScript at the moment
+- I'm proficient in Python and Java.
 
 
 <!--
