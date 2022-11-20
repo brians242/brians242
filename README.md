@@ -1,8 +1,8 @@
-![Brian's GitHub stats](https://github-readme-stats.vercel.app/api?username=brians242)
+Hey 👋, I'm Brian!
 
 I'm currently working on a new discord bot!
 
-I'm mainly learning C++, Lua, and js at the moment.
+I'm mainly learning C++, Lua, and JavaScript at the moment; I'm proficient in Python and Java.
 
 
 <!--
