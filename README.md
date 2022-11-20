@@ -1,4 +1,4 @@
-[![Brian's GitHub stats](https://github-readme-stats.vercel.app/api?username=brians242)]
+![Brian's GitHub stats(https://github-readme-stats.vercel.app/api?username=brians242)
 
 I'm currently working on a new discord bot!
 
