@@ -3,8 +3,8 @@
 I'm currently working on a new discord bot!
 
 ## Languages
-- I'm mainly learning Rust, ARM ASM, C++, Lua, and JavaScript at the moment
-- I'm proficient in Python, HTML, CSS, and Java.
+- I'm mainly learning ARM ASM and Lua at the moment
+- I'm proficient in C++, Rust, Python, HTML, CSS, and Java.
 
 <!--
 **brians242/brians242** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
