@@ -1,10 +1,14 @@
 # Hey 👋, I'm Brian!
 
-I'm currently working on a new discord bot!
+I'm interested in embedded development and CompE, but currently I also am looking into Computer Vision and ML for a couple of personal projects.
 
 ## Languages
-- I'm mainly learning ARM ASM and Lua at the moment
-- I'm proficient in C++, Rust, Python, HTML, CSS, and Java.
+- I am currently focusing on my C, C++, and Python development and projects.
+- I'm proficient in C, C++, Rust, Python, Java.
+
+## Current Goals
+- I’m looking to collaborate on emulator, OS, and embedded developments.
+- I’m currently working on a Computer Vision dance bot and instrument note overlay; AI storyboard; and Architectural simulators.
 
 <!--
 **brians242/brians242** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
