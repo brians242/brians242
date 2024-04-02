@@ -1,10 +1,10 @@
 # Hey 👋, I'm Brian!
 
-I'm interested in embedded development and CompE, but currently I also am looking into Computer Vision and ML for a couple of personal projects.
+I'm interested in embedded development and CompE, but currently I also am looking into Computer Vision and ML for a couple of personal projects. I also am really interested in simulations of different processes!
 
 ## Languages
-- I am currently focusing on my C, C++, and Python development and projects.
-- I'm proficient in C, C++, Rust, Python, Java.
+- I am currently focusing on my C, Rust, and Python development and projects.
+- I'm proficient in C, Rust, Python, C++, Java.
 
 ## Current Goals
 - I’m looking to collaborate on emulator, OS, and embedded developments.
