@@ -9,7 +9,7 @@ I'm interested in embedded development and CompE, but currently I also am lookin
 ## Current Goals
 - I’m looking to collaborate on emulator, OS, and embedded developments.
 - I’m currently working on a Computer Vision dance bot and instrument note overlay; AI storyboard; and Architectural simulators.
-
+- I'm working on uploading my projects here, had a factory reset a bit ago and will likely be ready to do so during a break time.
 <!--
 **brians242/brians242** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
